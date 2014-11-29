@@ -77,7 +77,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-HEROKU = True
+HEROKU = False
 
 TIME_ZONE = 'UTC'
 

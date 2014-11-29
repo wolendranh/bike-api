@@ -1,7 +1,7 @@
 [
   {
     "pk": 1,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Перша велолокація Львова Radler — місце зустрічей велосипедистів та людей, яким не чужі ідеї свободи руху на двох колесах. Тут можна: - смачно поїсти та випити - безпечно припаркувати велосипед - підкачати колесо чи амортизатор - скористатися нашими інструментами - орендувати велосипед для катання по місту - обміняти, купити або продати велодеталі на стіні велобарахольчика.",
       "work_time": "Пн: 15:00 - 23:00 Пт: 15:00 - 23:00 Сб - Нд: 11:00 - 23:00",
@@ -18,7 +18,7 @@
   },
   {
     "pk": 2,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "ціна прокату: 35 грн/год і 90 грн/день, застава: водійські права або паспорт",
       "work_time": "пн-сб: 11:00-19:00",
@@ -35,7 +35,7 @@
   },
   {
     "pk": 3,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "майстерня, велосипеди, деталі, аксесуари",
       "work_time": "пн-пт: 11:00-19:00, сб: 11:00-18:00, крім релігійних свят.",
@@ -52,7 +52,7 @@
   },
   {
     "pk": 4,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "",
       "work_time": "пн - нд: 11:00 – 23:00",
@@ -69,7 +69,7 @@
   },
   {
     "pk": 5,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Вегетаріанський ресторан, винний бар.",
       "work_time": "пн - нд: 10:00 - 23:00",
@@ -86,7 +86,7 @@
   },
   {
     "pk": 6,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 8",
       "work_time": "пн – нд 10:00 – 24:00",
@@ -103,7 +103,7 @@
   },
   {
     "pk": 7,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Суші, доставка суші і інших страв японської кухні.",
       "work_time": "цілодобово",
@@ -120,7 +120,7 @@
   },
   {
     "pk": 8,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Італійська кухня. Кількість паркомісць - 2.",
       "work_time": null,
@@ -137,7 +137,7 @@
   },
   {
     "pk": 9,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "веломагазин, велопрокат, майстерня",
       "work_time": "пн-нд: 11:00-19:00",
@@ -154,7 +154,7 @@
   },
   {
     "pk": 10,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -171,7 +171,7 @@
   },
   {
     "pk": 11,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, деталі, аксесуари, веломайстерня.",
       "work_time": "пон-cуб: 10:00-21:00",
@@ -188,7 +188,7 @@
   },
   {
     "pk": 12,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": "10:00-20:00",
@@ -205,7 +205,7 @@
   },
   {
     "pk": 13,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 10",
       "work_time": null,
@@ -222,7 +222,7 @@
   },
   {
     "pk": 14,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 8",
       "work_time": null,
@@ -239,7 +239,7 @@
   },
   {
     "pk": 15,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 14",
       "work_time": null,
@@ -256,7 +256,7 @@
   },
   {
     "pk": 16,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 6",
       "work_time": null,
@@ -273,7 +273,7 @@
   },
   {
     "pk": 17,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 12",
       "work_time": null,
@@ -290,7 +290,7 @@
   },
   {
     "pk": 18,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 6",
       "work_time": null,
@@ -307,7 +307,7 @@
   },
   {
     "pk": 19,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 12",
       "work_time": null,
@@ -324,7 +324,7 @@
   },
   {
     "pk": 20,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 2",
       "work_time": null,
@@ -341,7 +341,7 @@
   },
   {
     "pk": 21,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 12",
       "work_time": null,
@@ -358,7 +358,7 @@
   },
   {
     "pk": 22,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 5",
       "work_time": null,
@@ -375,7 +375,7 @@
   },
   {
     "pk": 23,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 5",
       "work_time": null,
@@ -392,7 +392,7 @@
   },
   {
     "pk": 24,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 3",
       "work_time": null,
@@ -409,7 +409,7 @@
   },
   {
     "pk": 25,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": null,
@@ -426,7 +426,7 @@
   },
   {
     "pk": 26,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, аксесуари, товари для туризму, майстерня.",
       "work_time": "пон-нед: 10.00-22.00",
@@ -443,7 +443,7 @@
   },
   {
     "pk": 27,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, деталі, аксесуари, одяг, товари для туризму, майстерня, прокат.",
       "work_time": "пон-пят: 11:00-19:00, суб. 10:00-18:00",
@@ -460,7 +460,7 @@
   },
   {
     "pk": 28,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Оригінальні кавові коктейлі, смачні кави й чаї, випічка та пиво з сиропами. Безкоштовний WI-FI з 8:00 до 19:00.",
       "work_time": "Пн - Чт: 8:30 - 23:00 Пт: 8:30 - 23:45 Сб - Нд: 10:00 - 23:45",
@@ -477,7 +477,7 @@
   },
   {
     "pk": 29,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кав’ярня «Штука» у Львові запрошує завітати поціновувачів справжньої львівської кави, солодощів та мистецтва. Потрапивши в «Штуку», Ви побачите на власні очі цікаві «штуки» інтр’єру початку минулого століття, а також живописні картини та фотороботи сучасних митців — в приміщенні кав’ярні знаходиться галерея. ",
       "work_time": "пн - нд: 9:00 - 22:00",
@@ -494,7 +494,7 @@
   },
   {
     "pk": 30,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Ресторан-бар  з  європейською кухнею, коктейльна, чайна та кавова карти. Українське та англійське меню. Щопонеділка  демонстрація арт-хаус фільмів мовою орігіналу з українськими чи російськими субтитрами. Замовлення столиків та доставка страв. Паркування  роверів. Wi-Fi free zone 10 Mb. Кількість паркомісць - 4.",
       "work_time": "пн-нд: 10:00 - 23:00",
@@ -511,7 +511,7 @@
   },
   {
     "pk": 31,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "спортивне спорядження, одяг, велосипеди. прокат",
       "work_time": "пн-пт: 11:00-20:00, сб: 11:00-17:00, нд: 12:00-17:00",
@@ -528,7 +528,7 @@
   },
   {
     "pk": 32,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, аксесуари, спортивне спорядження, майстерня, прокат",
       "work_time": "пн-пт: 11:00-20:00, сб. 11:00-17:00",
@@ -545,7 +545,7 @@
   },
   {
     "pk": 33,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "туристичне спорядження, велоаксесуари.",
       "work_time": "понеділок-п’ятниця: 10:00-19:00 субота: 10:00-17:00",
@@ -562,7 +562,7 @@
   },
   {
     "pk": 34,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, деталі, аксесуари, велоодяг, веломайстерня",
       "work_time": "пн-сб: 11.00-19.00, перерва: 14.00-15.00",
@@ -579,7 +579,7 @@
   },
   {
     "pk": 35,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, деталі, аксесуари, веломайстерня.",
       "work_time": "понеділок-п’ятниця: 10:00-20:00 субота: 10:00-18:00",
@@ -596,7 +596,7 @@
   },
   {
     "pk": 36,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, аксесуари, одяг, товари для туризму, майстерня.",
       "work_time": "пон-пят: 10:00-20:00, суб. 11:00-18:00,нед. 12:00-17:00",
@@ -613,7 +613,7 @@
   },
   {
     "pk": 37,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди,  деталі, аксесуари, велоодяг, майстерня",
       "work_time": "пн-пт: 11:00-19:00, сб: 10:00-16:00",
@@ -630,7 +630,7 @@
   },
   {
     "pk": 38,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, деталі, аксесуари. веломайстерня, велопрокат.",
       "work_time": "понеділок-п’ятниця: 10:00-19:00 субота: 10:00-18:00",
@@ -647,7 +647,7 @@
   },
   {
     "pk": 39,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Велопрокат: гірські, прогулянкові та дитячі велосипеди. Обов’язково треба мати документ, що засвідчує особу, можливий супровід інструктора. ",
       "work_time": "понеділок-п’ятниця: 16:00-21:00, субота-неділя: 11:00-21:00.",
@@ -664,7 +664,7 @@
   },
   {
     "pk": 40,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "спорттовари, велосипеди, деталі, аксесуари.",
       "work_time": "понеділок-п’ятниця: 10.00-18.00 перерва: 13.00-14.00 субота: 11.00-15.00 без перерви.",
@@ -681,7 +681,7 @@
   },
   {
     "pk": 41,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "товари для туризму, одяг.",
       "work_time": "пон-п’ят: 10.00-20.00, суб: 10.00-18.00",
@@ -698,7 +698,7 @@
   },
   {
     "pk": 42,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "товари для туризму, аксесуари, велосипеди під замовлення, велопрокат.",
       "work_time": "понеділок-п’ятниця: 10.00-19.00 перерва: 14.00-14.45 субота: 10.00-16.00 без перерви. неділя: 11.00-17.00 w",
@@ -715,7 +715,7 @@
   },
   {
     "pk": 43,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "спортивне спорядження,  велоаксесуари, деталі, велосипеди під замовлення. майстерня",
       "work_time": "пон – п’ят: 10:00-19:30, суб: 11:00-18:00, нед: 11:00-17:30",
@@ -732,7 +732,7 @@
   },
   {
     "pk": 44,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди нові та вживані, запчастини, аксесуари, майстерня",
       "work_time": "пн-нд: 10:00-15:00",
@@ -749,7 +749,7 @@
   },
   {
     "pk": 45,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, аксесуари, запчастини, майстерня.",
       "work_time": "пон-п’ят: 10.00-18.00, суб: 10.00-15.00",
@@ -766,7 +766,7 @@
   },
   {
     "pk": 46,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, деталі, аксесуари, товари для туризму, майстерня.",
       "work_time": "пон-п’ят: 10.00-20.00, суб-нед: 10.00-19.00",
@@ -783,7 +783,7 @@
   },
   {
     "pk": 47,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди,  запчастини, захист, аксесуари, майстерня",
       "work_time": "пн-нд: 11:00-19:00",
@@ -800,7 +800,7 @@
   },
   {
     "pk": 48,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "товари для туризму, велосипеди під замовлення.",
       "work_time": "пон-суб: 10.00-20.00, нед: 12.00-18.00",
@@ -817,7 +817,7 @@
   },
   {
     "pk": 49,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди, запчастини, аксесуари, майстерня",
       "work_time": "пн-пт: 11:00-19:00, сб: 11:00-17:00, в суботу майстерня не працює",
@@ -834,7 +834,7 @@
   },
   {
     "pk": 50,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -851,7 +851,7 @@
   },
   {
     "pk": 51,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "велосипеди нові та вживані, запчастини, аксесуари, майстерня",
       "work_time": "пн-нд: 09:00-17:00",
@@ -868,7 +868,7 @@
   },
   {
     "pk": 52,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 14",
       "work_time": null,
@@ -885,7 +885,7 @@
   },
   {
     "pk": 53,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": null,
@@ -902,7 +902,7 @@
   },
   {
     "pk": 54,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -919,7 +919,7 @@
   },
   {
     "pk": 55,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 9",
       "work_time": null,
@@ -936,7 +936,7 @@
   },
   {
     "pk": 56,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 6",
       "work_time": null,
@@ -953,7 +953,7 @@
   },
   {
     "pk": 57,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 6",
       "work_time": null,
@@ -970,7 +970,7 @@
   },
   {
     "pk": 58,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -987,7 +987,7 @@
   },
   {
     "pk": 59,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 12",
       "work_time": null,
@@ -1004,7 +1004,7 @@
   },
   {
     "pk": 60,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 8",
       "work_time": null,
@@ -1021,7 +1021,7 @@
   },
   {
     "pk": 61,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -1038,7 +1038,7 @@
   },
   {
     "pk": 62,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -1055,7 +1055,7 @@
   },
   {
     "pk": 63,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 1",
       "work_time": null,
@@ -1072,7 +1072,7 @@
   },
   {
     "pk": 64,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -1089,7 +1089,7 @@
   },
   {
     "pk": 65,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -1106,7 +1106,7 @@
   },
   {
     "pk": 66,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 2",
       "work_time": null,
@@ -1123,7 +1123,7 @@
   },
   {
     "pk": 67,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -1140,7 +1140,7 @@
   },
   {
     "pk": 68,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": null,
@@ -1157,7 +1157,7 @@
   },
   {
     "pk": 69,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": null,
@@ -1174,7 +1174,7 @@
   },
   {
     "pk": 70,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 2",
       "work_time": null,
@@ -1191,7 +1191,7 @@
   },
   {
     "pk": 71,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": null,
@@ -1208,7 +1208,7 @@
   },
   {
     "pk": 72,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -1225,7 +1225,7 @@
   },
   {
     "pk": 73,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -1242,7 +1242,7 @@
   },
   {
     "pk": 74,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 10",
       "work_time": null,
@@ -1259,7 +1259,7 @@
   },
   {
     "pk": 75,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 10",
       "work_time": null,
@@ -1276,7 +1276,7 @@
   },
   {
     "pk": 76,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 5",
       "work_time": null,
@@ -1293,7 +1293,7 @@
   },
   {
     "pk": 77,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 6",
       "work_time": null,
@@ -1310,7 +1310,7 @@
   },
   {
     "pk": 78,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 2",
       "work_time": null,
@@ -1327,7 +1327,7 @@
   },
   {
     "pk": 79,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 3",
       "work_time": null,
@@ -1344,7 +1344,7 @@
   },
   {
     "pk": 80,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 12",
       "work_time": null,
@@ -1361,7 +1361,7 @@
   },
   {
     "pk": 81,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": null,
@@ -1378,7 +1378,7 @@
   },
   {
     "pk": 82,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 6",
       "work_time": null,
@@ -1395,7 +1395,7 @@
   },
   {
     "pk": 83,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 8",
       "work_time": null,
@@ -1412,7 +1412,7 @@
   },
   {
     "pk": 84,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 8",
       "work_time": null,
@@ -1429,7 +1429,7 @@
   },
   {
     "pk": 85,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 8",
       "work_time": null,
@@ -1446,7 +1446,7 @@
   },
   {
     "pk": 86,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 12",
       "work_time": null,
@@ -1463,7 +1463,7 @@
   },
   {
     "pk": 87,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": null,
@@ -1480,7 +1480,7 @@
   },
   {
     "pk": 88,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 13",
       "work_time": null,
@@ -1497,7 +1497,7 @@
   },
   {
     "pk": 89,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": "пн-сб 8:00 - 23:00 нд 9:00 - 22:00",
@@ -1514,7 +1514,7 @@
   },
   {
     "pk": 90,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": "пн-сб 8:00 - 23:00 нд 9:00 - 22:00",
@@ -1531,7 +1531,7 @@
   },
   {
     "pk": 91,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "товари для туризму, одяг, велоаксесуари",
       "work_time": "пон-п’ят: 10.00-19.00, суб: 10.00-16.00",
@@ -1548,7 +1548,7 @@
   },
   {
     "pk": 92,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": "пн-сб 8:00 - 23:00 нд 9:00 - 22:00",
@@ -1565,7 +1565,7 @@
   },
   {
     "pk": 93,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 7",
       "work_time": "пн-сб 8:00 - 23:00 нд 9:00 - 22:00",
@@ -1582,7 +1582,7 @@
   },
   {
     "pk": 94,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": "щодня 8.00 -23.00",
@@ -1599,7 +1599,7 @@
   },
   {
     "pk": 95,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": "щодня 8.00 -23.00",
@@ -1616,7 +1616,7 @@
   },
   {
     "pk": 96,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 8",
       "work_time": "8.00-23.00",
@@ -1633,7 +1633,7 @@
   },
   {
     "pk": 97,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 4",
       "work_time": "щодня 8.00 -23.00",
@@ -1650,7 +1650,7 @@
   },
   {
     "pk": 98,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 10",
       "work_time": null,
@@ -1667,7 +1667,7 @@
   },
   {
     "pk": 99,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Гриль\nЖива риба\nЗамовлення м'яса для шашлику\nКулінарія\nЧистка риби\nКількість паркомісць - 2",
       "work_time": "08:00 - 23:00",
@@ -1684,7 +1684,7 @@
   },
   {
     "pk": 100,
-    "model": "bike_api.place",
+    "model": "version_1.place",
     "fields": {
       "description": "Кількість паркомісць - 2",
       "work_time": null,
@@ -1701,7 +1701,7 @@
   },
   {
     "pk": 1,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "otfoHcjtqC]_A^qA",
       "first_longitude": "24.029909",
@@ -1715,7 +1715,7 @@
   },
   {
     "pk": 2,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "}seoHw_tqC{I`FiAj@",
       "first_longitude": "24.028347",
@@ -1729,7 +1729,7 @@
   },
   {
     "pk": 3,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "c~eoHqmqqCLiApCI`BGRU",
       "first_longitude": "24.015128",
@@ -1743,7 +1743,7 @@
   },
   {
     "pk": 4,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "wzdoHo|nqC@Dp@r@BFD`@",
       "first_longitude": "24.002161",
@@ -1757,7 +1757,7 @@
   },
   {
     "pk": 5,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "ibdoHu_pqCjBzD|CdGdFtJ",
       "first_longitude": "24.007819",
@@ -1771,7 +1771,7 @@
   },
   {
     "pk": 6,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "qceoHqltqCt@n@",
       "first_longitude": "24.030308",
@@ -1785,7 +1785,7 @@
   },
   {
     "pk": 7,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "ymboH{tpqCtBcBtBuB",
       "first_longitude": "24.011121",
@@ -1799,7 +1799,7 @@
   },
   {
     "pk": 8,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "idcoHoinqC|GjObIbQjBzD",
       "first_longitude": "23.999121",
@@ -1813,7 +1813,7 @@
   },
   {
     "pk": 9,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "i|}nHaj{qCDNt@aAbC}C",
       "first_longitude": "24.065788",
@@ -1827,7 +1827,7 @@
   },
   {
     "pk": 10,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "ej}nHqf|qCBFN]jAyCv@iABA",
       "first_longitude": "24.070327",
@@ -1841,7 +1841,7 @@
   },
   {
     "pk": 11,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "y~}nHsf{qCgB`BmCrB",
       "first_longitude": "24.065250",
@@ -1855,7 +1855,7 @@
   },
   {
     "pk": 12,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "ku~nHuszqChAq@`Ay@fByA",
       "first_longitude": "24.062173",
@@ -1869,7 +1869,7 @@
   },
   {
     "pk": 13,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "mcaoHkn}qCqKxC",
       "first_longitude": "24.061403",
@@ -1883,7 +1883,7 @@
   },
   {
     "pk": 14,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "qwboHsr|qCm@j@mDtCIF",
       "first_longitude": "24.076752",
@@ -1897,7 +1897,7 @@
   },
   {
     "pk": 15,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "ahcoHed|qC}DbD",
       "first_longitude": "24.075021",
@@ -1911,7 +1911,7 @@
   },
   {
     "pk": 16,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "q`foHwqsqCjDaBfG}CnCoBFCS{AOmAE@qAt@{@d@\\rD",
       "first_longitude": "24.026077",
@@ -1925,7 +1925,7 @@
   },
   {
     "pk": 17,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "useoHuosqCPFj@z@vIbO",
       "first_longitude": "24.025738",
@@ -1939,7 +1939,7 @@
   },
   {
     "pk": 18,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "evhoHyzrqCmByE}@gBeA_B}DgGaCwDiB}BmEyEq@s@m@}@s@}A{BaJeCmKeBuHe@_FgAwOe@mIqAaXSiEGoC@uD@wA`@}KZyJNcD@G",
       "first_longitude": "24.022388",
@@ -1953,7 +1953,7 @@
   },
   {
     "pk": 19,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "yakoHqndqCsDnK",
       "first_longitude": "23.948799",
@@ -1967,7 +1967,7 @@
   },
   {
     "pk": 20,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "yhkoHw~cqCu@dCsA|EU|@QlA}AnOcBzPO`CMhDa@|@Cc@HcCToCH_BFYDa@C]`@mELk@PKj@FVDPLT\\IpCUl@]vAYlBc@hGQ`Gu@?^mLN}B\\qDf@yETmCnAgMb@iD",
       "first_longitude": "23.946198",
@@ -1981,7 +1981,7 @@
   },
   {
     "pk": 21,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "irkoH_ybqCi@nF",
       "first_longitude": "23.940150",
@@ -1995,7 +1995,7 @@
   },
   {
     "pk": 22,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "edgoHogsqCtDNnGVbBF?yD",
       "first_longitude": "24.024417",
@@ -2009,7 +2009,7 @@
   },
   {
     "pk": 23,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "w}eoHqoqqCLkAl@iJ@eCu@mKD?",
       "first_longitude": "24.015454",
@@ -2023,7 +2023,7 @@
   },
   {
     "pk": 24,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "_zdoH_isqClFpK|A|C~ChFd@`AJ^XVfAvAdAvAf@^pBbAr@Zv@rA",
       "first_longitude": "24.024595",
@@ -2037,7 +2037,7 @@
   },
   {
     "pk": 25,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "uncoHkhhqCl`@jBhETpDLxA@",
       "first_longitude": "23.968211",
@@ -2051,7 +2051,7 @@
   },
   {
     "pk": 26,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "k}}nHq}qqCB?_@rJ_@jDo@rLw@dP]nJi@lJsApW{Bne@eEt{@_AjR]|FIx@",
       "first_longitude": "24.017696",
@@ -2065,7 +2065,7 @@
   },
   {
     "pk": 27,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "_}}nHy_rqCf@@r@JpDd@rs@pJvYvD",
       "first_longitude": "24.018025",
@@ -2079,7 +2079,7 @@
   },
   {
     "pk": 28,
-    "model": "bike_api.bicycleline",
+    "model": "version_1.bicycleline",
     "fields": {
       "line_path": "_z|nH_w|qCx@i@zD_CfBy@zAg@vASnACbBD`CPbFPrAIv@OrKgCpFuAfCs@z@_@xAy@v@i@pAyA|B}DpBaE",
       "first_longitude": "24.072968",
