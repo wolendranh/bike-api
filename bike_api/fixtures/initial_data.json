@@ -1,0 +1,2094 @@
+[
+  {
+    "pk": 1,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Перша велолокація Львова Radler — місце зустрічей велосипедистів та людей, яким не чужі ідеї свободи руху на двох колесах. Тут можна: - смачно поїсти та випити - безпечно припаркувати велосипед - підкачати колесо чи амортизатор - скористатися нашими інструментами - орендувати велосипед для катання по місту - обміняти, купити або продати велодеталі на стіні велобарахольчика.",
+      "work_time": "Пн: 15:00 - 23:00 Пт: 15:00 - 23:00 Сб - Нд: 11:00 - 23:00",
+      "updated_at": "2014-11-11T07:46:05.605Z",
+      "phone": "(067)593-34-87",
+      "address": "вул. Дж. Дудаєва, 16/49",
+      "name": "Байк-кафе Radler",
+      "home_page": "www.radler.lviv.ua",
+      "created_at": "2014-10-22T11:26:14.686Z",
+      "longitude": "24.029173",
+      "latitude": "49.836457",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "ціна прокату: 35 грн/год і 90 грн/день, застава: водійські права або паспорт",
+      "work_time": "пн-сб: 11:00-19:00",
+      "updated_at": "2014-11-11T07:46:06.213Z",
+      "phone": "(093)619-17-95, (067)320-50-68",
+      "address": "вул. Коцюбинського, 4",
+      "name": "Велопрокат",
+      "home_page": "http://www.facebook.com/bikerentlviv",
+      "created_at": "2014-10-22T11:30:33.996Z",
+      "longitude": "24.030029",
+      "latitude": "49.830151",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "майстерня, велосипеди, деталі, аксесуари",
+      "work_time": "пн-пт: 11:00-19:00, сб: 11:00-18:00, крім релігійних свят.",
+      "updated_at": "2014-11-11T07:46:06.233Z",
+      "phone": "(067)670-83-85, (067)419-42-83",
+      "address": "вул. Простора, 3",
+      "name": "Велосервіс Шведов Володимир Миколайович",
+      "home_page": null,
+      "created_at": "2014-10-22T11:30:39.996Z",
+      "longitude": "24.070405",
+      "latitude": "49.800377",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "",
+      "work_time": "пн - нд: 11:00 – 23:00",
+      "updated_at": "2014-11-11T07:46:05.587Z",
+      "phone": "(032)235-60-60, (097)645-49-52",
+      "address": "вул. Лесі Українки, 14, (Вірменський дворик)",
+      "name": "Пивний ресторан Mons Pius: Пиво і М'ясо",
+      "home_page": "www.monspius.lviv.ua",
+      "created_at": "2014-10-22T11:26:22.703Z",
+      "longitude": "24.031020",
+      "latitude": "49.843491",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Вегетаріанський ресторан, винний бар.",
+      "work_time": "пн - нд: 10:00 - 23:00",
+      "updated_at": "2014-11-11T07:46:05.926Z",
+      "phone": "(032)242-33-69",
+      "address": "пл. Катедральна, 5",
+      "name": "Cafe 1",
+      "home_page": "www.cafe1.virtual.ua ",
+      "created_at": "2014-10-22T11:26:26.750Z",
+      "longitude": "24.031126",
+      "latitude": "49.840534",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 8",
+      "work_time": "пн – нд 10:00 – 24:00",
+      "updated_at": "2014-11-11T07:46:05.937Z",
+      "phone": "(050)378-60-38",
+      "address": "пл. Ринок, 1",
+      "name": "Кав'ярня Біля Діани",
+      "home_page": "www.facebook.com/diananarynku",
+      "created_at": "2014-10-22T11:26:24.721Z",
+      "longitude": "24.032578",
+      "latitude": "49.841621",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Суші, доставка суші і інших страв японської кухні.",
+      "work_time": "цілодобово",
+      "updated_at": "2014-11-11T07:46:06.813Z",
+      "phone": " (032)235-50-93",
+      "address": "пл. Ринок, 27",
+      "name": "Япона Хата",
+      "home_page": "http://yaponahata.com",
+      "created_at": "2014-10-22T11:26:28.689Z",
+      "longitude": "24.030601",
+      "latitude": "49.841520",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Італійська кухня. Кількість паркомісць - 2.",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:06.246Z",
+      "phone": "(097)190-23-44, (032)235-43-76",
+      "address": "вул. Братів Рогатинців, 43/12",
+      "name": "Ресторан Флоренція",
+      "home_page": null,
+      "created_at": "2014-10-22T11:26:30.689Z",
+      "longitude": "24.034036",
+      "latitude": "49.840647",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "веломагазин, велопрокат, майстерня",
+      "work_time": "пн-нд: 11:00-19:00",
+      "updated_at": "2014-11-11T07:46:06.520Z",
+      "phone": "(063)783-22-39, (098)038-06-58",
+      "address": "вул. Наукова, 30",
+      "name": "Велобайка",
+      "home_page": "www.velobajka.at.ua",
+      "created_at": "2014-10-22T11:30:31.989Z",
+      "longitude": "24.000358",
+      "latitude": "49.804276",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:06.539Z",
+      "phone": null,
+      "address": "просп. Чорновола, 67",
+      "name": "Інтерсіті",
+      "home_page": null,
+      "created_at": "2014-10-22T11:28:00.293Z",
+      "longitude": "24.017969",
+      "latitude": "49.861592",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, деталі, аксесуари, веломайстерня.",
+      "work_time": "пон-cуб: 10:00-21:00",
+      "updated_at": "2014-11-11T07:46:06.540Z",
+      "phone": "(050)317-11-40",
+      "address": "вул. Зарицьких, 32/11",
+      "name": "Cyclo-up Марко",
+      "home_page": null,
+      "created_at": "2014-10-22T11:30:48.012Z",
+      "longitude": "24.026525",
+      "latitude": "49.829166",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": "10:00-20:00",
+      "updated_at": "2014-11-11T07:46:07.427Z",
+      "phone": "(032) 298-95-68",
+      "address": "вул. Городоцька, 175",
+      "name": "Скриня",
+      "home_page": null,
+      "created_at": "2014-10-22T11:28:16.315Z",
+      "longitude": "23.994680",
+      "latitude": "49.835058",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 10",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:06.835Z",
+      "phone": null,
+      "address": "просп. Чорновола, 61",
+      "name": "ЛІБС УБС НБУ (3-й корпус)",
+      "home_page": null,
+      "created_at": "2014-10-22T11:33:52.341Z",
+      "longitude": "24.019854",
+      "latitude": "49.857709",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 8",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:06.843Z",
+      "phone": null,
+      "address": "вул. Тершаківців, 5",
+      "name": "ТЦ Вопак",
+      "home_page": null,
+      "created_at": "2014-10-22T11:33:56.355Z",
+      "longitude": "24.041142",
+      "latitude": "49.834736",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 14",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:07.112Z",
+      "phone": null,
+      "address": "вул. Степана Бандери, 12",
+      "name": "НУ \"ЛП\" головний корпус",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:00.351Z",
+      "longitude": "24.014442",
+      "latitude": "49.835510",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 6",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:07.128Z",
+      "phone": null,
+      "address": "пл. Митна, 1",
+      "name": "Львівський поліграфічний технікум",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:02.366Z",
+      "longitude": "24.036627",
+      "latitude": "49.839246",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 12",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:07.149Z",
+      "phone": null,
+      "address": "вул. Вірменська, 35",
+      "name": "Дзига",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:06.363Z",
+      "longitude": "24.034168",
+      "latitude": "49.843157",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 6",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:07.415Z",
+      "phone": null,
+      "address": "вул. Коперника, 40",
+      "name": "СЗШ №9",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:12.375Z",
+      "longitude": "24.022165",
+      "latitude": "49.836441",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 12",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:07.734Z",
+      "phone": null,
+      "address": "вул.Коперника, 17",
+      "name": "Львівський Палац Мистецтв",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:14.380Z",
+      "longitude": "24.026161",
+      "latitude": "49.837521",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 2",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:07.451Z",
+      "phone": null,
+      "address": "вул. Словацького 1",
+      "name": "біля Головної пошти",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:16.341Z",
+      "longitude": "24.024140",
+      "latitude": "49.837273",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 12",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:07.728Z",
+      "phone": null,
+      "address": "вул.Підвальна, 17",
+      "name": "Українська академія друкарства",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:04.361Z",
+      "longitude": "24.034425",
+      "latitude": "49.843883",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 5",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:08.029Z",
+      "phone": null,
+      "address": "вул. Костюшка, 11",
+      "name": "Львівський державний університет фізичної культури",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:18.384Z",
+      "longitude": "24.022624",
+      "latitude": "49.841350",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 5",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:07.750Z",
+      "phone": null,
+      "address": "вул. Лесі Українки, 1",
+      "name": "Театр імені Марії Заньковецької",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:22.398Z",
+      "longitude": "24.027577",
+      "latitude": "49.844267",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 3",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:08.032Z",
+      "phone": null,
+      "address": "вул.Саксаганського, 5",
+      "name": "Страхова компанія \"Скарбниця\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:34.410Z",
+      "longitude": "24.032984",
+      "latitude": "49.835187",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:08.053Z",
+      "phone": null,
+      "address": "просп. Чорновола, 93",
+      "name": "ТЦ Арсен",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:58.453Z",
+      "longitude": "24.017400",
+      "latitude": "49.862308",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, аксесуари, товари для туризму, майстерня.",
+      "work_time": "пон-нед: 10.00-22.00",
+      "updated_at": "2014-11-11T07:46:08.336Z",
+      "phone": "(032)244-42-18, (032)244-42-19",
+      "address": "ТРЦ “King Cross Leopolis” , с. Сокільники, вул. Стрийська, 30",
+      "name": "Екстрем Стайл",
+      "home_page": "www.extremstyle.ua",
+      "created_at": "2014-10-22T11:31:12.042Z",
+      "longitude": "24.011342",
+      "latitude": "49.774205",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, деталі, аксесуари, одяг, товари для туризму, майстерня, прокат.",
+      "work_time": "пон-пят: 11:00-19:00, суб. 10:00-18:00",
+      "updated_at": "2014-11-11T07:46:08.336Z",
+      "phone": "(032)270-62-66, (032)270-70-63",
+      "address": "вул. Листопадна, 16",
+      "name": "Команчеро",
+      "home_page": "www.fira.com.ua",
+      "created_at": "2014-10-22T11:31:06.178Z",
+      "longitude": "24.044468",
+      "latitude": "49.812949",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Оригінальні кавові коктейлі, смачні кави й чаї, випічка та пиво з сиропами. Безкоштовний WI-FI з 8:00 до 19:00.",
+      "work_time": "Пн - Чт: 8:30 - 23:00 Пт: 8:30 - 23:45 Сб - Нд: 10:00 - 23:45",
+      "updated_at": "2014-11-11T07:46:08.362Z",
+      "phone": "(032)235-40-45",
+      "address": "пл. Коліївщини, 1",
+      "name": "кав'ярня Меделін",
+      "home_page": null,
+      "created_at": "2014-10-22T11:26:16.700Z",
+      "longitude": "24.034302",
+      "latitude": "49.840906",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кав’ярня «Штука» у Львові запрошує завітати поціновувачів справжньої львівської кави, солодощів та мистецтва. Потрапивши в «Штуку», Ви побачите на власні очі цікаві «штуки» інтр’єру початку минулого століття, а також живописні картини та фотороботи сучасних митців — в приміщенні кав’ярні знаходиться галерея. ",
+      "work_time": "пн - нд: 9:00 - 22:00",
+      "updated_at": "2014-11-11T07:46:08.632Z",
+      "phone": "(097)586-81-95, (097)435-81-27",
+      "address": "вул. Котляревського, 8",
+      "name": "Кав'ярня Штука",
+      "home_page": "www.shtuka.net.ua",
+      "created_at": "2014-10-22T11:26:20.812Z",
+      "longitude": "24.015318",
+      "latitude": "49.832785",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Ресторан-бар  з  європейською кухнею, коктейльна, чайна та кавова карти. Українське та англійське меню. Щопонеділка  демонстрація арт-хаус фільмів мовою орігіналу з українськими чи російськими субтитрами. Замовлення столиків та доставка страв. Паркування  роверів. Wi-Fi free zone 10 Mb. Кількість паркомісць - 4.",
+      "work_time": "пн-нд: 10:00 - 23:00",
+      "updated_at": "2014-11-11T07:46:08.650Z",
+      "phone": "(032)255-31-00 (098)094-81-01",
+      "address": "проїзд  Крива Липа, 8",
+      "name": "Кулінарна студія Крива Липа",
+      "home_page": "www.kryva-lypa.com",
+      "created_at": "2014-10-22T11:26:18.711Z",
+      "longitude": "24.025850",
+      "latitude": "49.840597",
+      "type": "Cafe"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "спортивне спорядження, одяг, велосипеди. прокат",
+      "work_time": "пн-пт: 11:00-20:00, сб: 11:00-17:00, нд: 12:00-17:00",
+      "updated_at": "2014-11-11T07:46:08.665Z",
+      "phone": "(032)261-01-88",
+      "address": "вул. Соломії Крушельницької, 1",
+      "name": "Бумеранг",
+      "home_page": "www.boomerang.kiev.ua",
+      "created_at": "2014-10-22T11:30:27.980Z",
+      "longitude": "24.022794",
+      "latitude": "49.838326",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, аксесуари, спортивне спорядження, майстерня, прокат",
+      "work_time": "пн-пт: 11:00-20:00, сб. 11:00-17:00",
+      "updated_at": "2014-11-11T07:46:08.944Z",
+      "phone": "(032)225-73-98",
+      "address": "вул. Зелена, 95",
+      "name": "Бумеранг",
+      "home_page": "www.boomerang.kiev.ua",
+      "created_at": "2014-10-22T11:30:29.982Z",
+      "longitude": "24.047317",
+      "latitude": "49.825607",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "туристичне спорядження, велоаксесуари.",
+      "work_time": "понеділок-п’ятниця: 10:00-19:00 субота: 10:00-17:00",
+      "updated_at": "2014-11-11T07:46:08.948Z",
+      "phone": "(099)541-17-70",
+      "address": "вул. Глибока, 8",
+      "name": "Фанатік Sport",
+      "home_page": "www.fanaticsport.ua",
+      "created_at": "2014-10-22T11:30:35.999Z",
+      "longitude": "24.013021",
+      "latitude": "49.834013",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, деталі, аксесуари, велоодяг, веломайстерня",
+      "work_time": "пн-сб: 11.00-19.00, перерва: 14.00-15.00",
+      "updated_at": "2014-11-11T07:46:08.965Z",
+      "phone": "(032)233-23-46",
+      "address": "вул. Квітки-Основ'яненка, 35",
+      "name": "Velomax",
+      "home_page": null,
+      "created_at": "2014-10-22T11:30:46.016Z",
+      "longitude": "24.005199",
+      "latitude": "49.845609",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, деталі, аксесуари, веломайстерня.",
+      "work_time": "понеділок-п’ятниця: 10:00-20:00 субота: 10:00-18:00",
+      "updated_at": "2014-11-11T07:46:09.268Z",
+      "phone": "(067)793-42-01",
+      "address": "вул. Городоцька 27",
+      "name": "X – індустрія",
+      "home_page": null,
+      "created_at": "2014-10-22T11:30:44.007Z",
+      "longitude": "24.022460",
+      "latitude": "49.843072",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, аксесуари, одяг, товари для туризму, майстерня.",
+      "work_time": "пон-пят: 10:00-20:00, суб. 11:00-18:00,нед. 12:00-17:00",
+      "updated_at": "2014-11-11T07:46:09.271Z",
+      "phone": "(032)270-99-55",
+      "address": "вул. Білоцерківська, 2а",
+      "name": "Rossignol",
+      "home_page": null,
+      "created_at": "2014-10-22T11:30:50.023Z",
+      "longitude": "24.053670",
+      "latitude": "49.816437",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди,  деталі, аксесуари, велоодяг, майстерня",
+      "work_time": "пн-пт: 11:00-19:00, сб: 10:00-16:00",
+      "updated_at": "2014-11-11T07:46:09.254Z",
+      "phone": "(032)233-33-05, (067)260-11-22, (067)303-95-00",
+      "address": "вул. Шевченка, 52",
+      "name": "Велотехніка",
+      "home_page": null,
+      "created_at": "2014-10-22T11:30:52.021Z",
+      "longitude": "24.011000",
+      "latitude": "49.844627",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, деталі, аксесуари. веломайстерня, велопрокат.",
+      "work_time": "понеділок-п’ятниця: 10:00-19:00 субота: 10:00-18:00",
+      "updated_at": "2014-11-11T07:46:10.237Z",
+      "phone": "(032)232-84-58",
+      "address": "вул. Брюлова, 8",
+      "name": "Action Bike",
+      "home_page": "www.actionbike.com.ua",
+      "created_at": "2014-10-22T11:30:55.986Z",
+      "longitude": "24.017683",
+      "latitude": "49.834043",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Велопрокат: гірські, прогулянкові та дитячі велосипеди. Обов’язково треба мати документ, що засвідчує особу, можливий супровід інструктора. ",
+      "work_time": "понеділок-п’ятниця: 16:00-21:00, субота-неділя: 11:00-21:00.",
+      "updated_at": "2014-11-11T07:46:09.911Z",
+      "phone": "(093)422-32-22",
+      "address": "Стрийський парк, поблизу к-тру “Львів”",
+      "name": "LeoSport",
+      "home_page": null,
+      "created_at": "2014-10-22T11:30:54.021Z",
+      "longitude": "24.025572",
+      "latitude": "49.821111",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "спорттовари, велосипеди, деталі, аксесуари.",
+      "work_time": "понеділок-п’ятниця: 10.00-18.00 перерва: 13.00-14.00 субота: 11.00-15.00 без перерви.",
+      "updated_at": "2014-11-11T07:46:09.562Z",
+      "phone": "(032)235-87-09",
+      "address": "просп. Свободи, 1/3",
+      "name": "Спорттовари",
+      "home_page": null,
+      "created_at": "2014-10-22T11:30:58.027Z",
+      "longitude": "24.028267",
+      "latitude": "49.839718",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "товари для туризму, одяг.",
+      "work_time": "пон-п’ят: 10.00-20.00, суб: 10.00-18.00",
+      "updated_at": "2014-11-11T07:46:09.575Z",
+      "phone": "(032)240-18-33",
+      "address": "вул. Кульпарківська, 108",
+      "name": "Спорт Континент",
+      "home_page": "www.sport-co.com.ua",
+      "created_at": "2014-10-22T11:30:38.004Z",
+      "longitude": "23.988115",
+      "latitude": "49.820542",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "товари для туризму, аксесуари, велосипеди під замовлення, велопрокат.",
+      "work_time": "понеділок-п’ятниця: 10.00-19.00 перерва: 14.00-14.45 субота: 10.00-16.00 без перерви. неділя: 11.00-17.00 w",
+      "updated_at": "2014-11-11T07:46:09.573Z",
+      "phone": "(032) 247 1947,  (093)563-65-19, (097)129-68-58",
+      "address": "вул. Шептицьких, 15",
+      "name": "Робінзон",
+      "home_page": "www.robinzon.in.ua",
+      "created_at": "2014-10-22T11:31:02.000Z",
+      "longitude": "24.009665",
+      "latitude": "49.837672",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "спортивне спорядження,  велоаксесуари, деталі, велосипеди під замовлення. майстерня",
+      "work_time": "пон – п’ят: 10:00-19:30, суб: 11:00-18:00, нед: 11:00-17:30",
+      "updated_at": "2014-11-11T07:46:09.907Z",
+      "phone": "(032)294-92-38, (099)444-07-27",
+      "address": "вул. Л. Курбаса, 4",
+      "name": "Норман",
+      "home_page": "www.norman.lviv.ua",
+      "created_at": "2014-10-22T11:31:04.047Z",
+      "longitude": "24.025801",
+      "latitude": "49.841916",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди нові та вживані, запчастини, аксесуари, майстерня",
+      "work_time": "пн-нд: 10:00-15:00",
+      "updated_at": "2014-11-11T07:46:09.913Z",
+      "phone": "(093)798-72-03, (050)670-72-55",
+      "address": "Ринок Торпедо, магазин №17. вул. Кукурудзяна",
+      "name": "Велосипеди",
+      "home_page": null,
+      "created_at": "2014-10-22T11:31:08.024Z",
+      "longitude": "24.055552",
+      "latitude": "49.862821",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, аксесуари, запчастини, майстерня.",
+      "work_time": "пон-п’ят: 10.00-18.00, суб: 10.00-15.00",
+      "updated_at": "2014-11-11T07:46:10.217Z",
+      "phone": "(032)240-15-17",
+      "address": "вул. Виговського, 1",
+      "name": "Мотовелотехніка",
+      "home_page": "www.mvt.lviv.ua",
+      "created_at": "2014-10-22T11:31:10.048Z",
+      "longitude": "23.968615",
+      "latitude": "49.830214",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, деталі, аксесуари, товари для туризму, майстерня.",
+      "work_time": "пон-п’ят: 10.00-20.00, суб-нед: 10.00-19.00",
+      "updated_at": "2014-11-11T07:46:10.225Z",
+      "phone": "(032)245-49-81",
+      "address": "вул. Наукова, 2Б",
+      "name": "Драйв-Спорт",
+      "home_page": "www.drive-sport.com.ua",
+      "created_at": "2014-10-22T11:31:14.097Z",
+      "longitude": "24.012639",
+      "latitude": "49.802854",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди,  запчастини, захист, аксесуари, майстерня",
+      "work_time": "пн-нд: 11:00-19:00",
+      "updated_at": "2014-11-11T07:46:10.883Z",
+      "phone": "(067)673-87-16",
+      "address": "вул. М. Заньковецької, 1/2",
+      "name": "Веломагазин Bianchi",
+      "home_page": "www.mfksport.com",
+      "created_at": "2014-10-22T11:31:16.115Z",
+      "longitude": "24.046097",
+      "latitude": "49.840862",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "товари для туризму, велосипеди під замовлення.",
+      "work_time": "пон-суб: 10.00-20.00, нед: 12.00-18.00",
+      "updated_at": "2014-11-11T07:46:10.861Z",
+      "phone": "(032)255-00-32",
+      "address": "вул. Городоцька, 5",
+      "name": "Горгани",
+      "home_page": "www.gorgany.com",
+      "created_at": "2014-10-22T11:31:18.029Z",
+      "longitude": "24.024961",
+      "latitude": "49.844032",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди, запчастини, аксесуари, майстерня",
+      "work_time": "пн-пт: 11:00-19:00, сб: 11:00-17:00, в суботу майстерня не працює",
+      "updated_at": "2014-11-11T07:46:10.563Z",
+      "phone": "(032)299-31-64, (067)733-77-51",
+      "address": "вул. Івасюка, 9",
+      "name": "Вовк-спорт",
+      "home_page": null,
+      "created_at": "2014-10-22T11:31:20.068Z",
+      "longitude": "24.046283",
+      "latitude": "49.830346",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:10.539Z",
+      "phone": null,
+      "address": "просп. Чорновола, 12",
+      "name": "Макдональдс",
+      "home_page": null,
+      "created_at": "2014-10-22T11:33:50.349Z",
+      "longitude": "24.025475",
+      "latitude": "49.847025",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "велосипеди нові та вживані, запчастини, аксесуари, майстерня",
+      "work_time": "пн-нд: 09:00-17:00",
+      "updated_at": "2014-11-11T07:46:10.586Z",
+      "phone": "(067)884-87-32",
+      "address": "Ринок Торпедо, магазин №9. вул. Кукурудзяна",
+      "name": "Велозапчастини",
+      "home_page": null,
+      "created_at": "2014-10-22T11:31:00.176Z",
+      "longitude": "24.055552",
+      "latitude": "49.862821",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 14",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:10.849Z",
+      "phone": null,
+      "address": "пл.Є. Петрушевича, 3",
+      "name": "Бізнес-центр Емеральд",
+      "home_page": null,
+      "created_at": "2014-10-22T11:33:54.344Z",
+      "longitude": "24.037790",
+      "latitude": "49.833416",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.458Z",
+      "phone": null,
+      "address": "вул. Степана Бандери, 28а",
+      "name": "НУ \"ЛП\" корпус №5",
+      "home_page": null,
+      "created_at": "2014-10-22T11:33:58.352Z",
+      "longitude": "24.008428",
+      "latitude": "49.835229",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 54,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.149Z",
+      "phone": null,
+      "address": "вул. Галицька, 1",
+      "name": "Communa",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:26.483Z",
+      "longitude": "24.031225",
+      "latitude": "49.841025",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 9",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:16.149Z",
+      "phone": null,
+      "address": "пл. Галицька, 15",
+      "name": "Радіо Люкс",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:32.404Z",
+      "longitude": "24.033987",
+      "latitude": "49.838675",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 6",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.177Z",
+      "phone": null,
+      "address": "вул. Шпитальна, 1",
+      "name": "Магнус",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:20.385Z",
+      "longitude": "24.024081",
+      "latitude": "49.844234",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 6",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.477Z",
+      "phone": null,
+      "address": "просп. Шевченка, 24",
+      "name": "Салон-магазин МТС 3G",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:36.415Z",
+      "longitude": "24.031605",
+      "latitude": "49.836196",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.193Z",
+      "phone": null,
+      "address": "просп. Шевченка, 7",
+      "name": "Макдональдс",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:40.419Z",
+      "longitude": "24.031658",
+      "latitude": "49.838133",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 12",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.495Z",
+      "phone": null,
+      "address": "просп. Свободи, 18",
+      "name": "Економічний ф-тет ЛНУ",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:44.434Z",
+      "longitude": "24.028786",
+      "latitude": "49.842630",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 8",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.762Z",
+      "phone": null,
+      "address": "вул. Дудаєва, 2",
+      "name": "Магазин Columbia",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:38.414Z",
+      "longitude": "24.031254",
+      "latitude": "49.836711",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.075Z",
+      "phone": null,
+      "address": "вул. Шевченка, 350а",
+      "name": "ЖЕК-402",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:48.430Z",
+      "longitude": "23.954945",
+      "latitude": "49.869635",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 62,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.955Z",
+      "phone": null,
+      "address": "вул. Гетьмана Мазепи, 11",
+      "name": "ТЦ ВАМ",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:52.403Z",
+      "longitude": "24.032374",
+      "latitude": "49.871409",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 63,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 1",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:11.816Z",
+      "phone": null,
+      "address": "вул. Бортнянського, 17",
+      "name": "ЛКП \"Граніт\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:02.458Z",
+      "longitude": "24.003426",
+      "latitude": "49.845240",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 64,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:12.537Z",
+      "phone": null,
+      "address": "просп. Червоної Калини, 62",
+      "name": "ТЦ ВАМ",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:06.467Z",
+      "longitude": "24.057240",
+      "latitude": "49.792120",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 65,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:12.063Z",
+      "phone": null,
+      "address": "просп. Чорновола, 67",
+      "name": "ТЦ Інтерсіті",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:46.431Z",
+      "longitude": "24.017969",
+      "latitude": "49.861592",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 66,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 2",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:12.389Z",
+      "phone": null,
+      "address": "вул. Шевченка, 358а",
+      "name": "Супермаркет Сільпо",
+      "home_page": null,
+      "created_at": "2014-10-22T11:34:50.442Z",
+      "longitude": "23.951464",
+      "latitude": "49.868920",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 67,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:12.239Z",
+      "phone": null,
+      "address": "вул. Хуторівка, 35а",
+      "name": "Богословський ф-т УКУ",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:14.480Z",
+      "longitude": "24.037229",
+      "latitude": "49.801171",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 68,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:12.381Z",
+      "phone": null,
+      "address": "вул. Княгині Ольги, 120",
+      "name": "ТЦ Арсен",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:24.457Z",
+      "longitude": "23.996241",
+      "latitude": "49.801925",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 69,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:12.670Z",
+      "phone": null,
+      "address": "просп. Червоної Калини, 60",
+      "name": "ТЦ Арсен",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:08.474Z",
+      "longitude": "24.053678",
+      "latitude": "49.794499",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 70,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 2",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.737Z",
+      "phone": null,
+      "address": "вул. Пасічна 102а",
+      "name": "Ощадкаса",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:16.476Z",
+      "longitude": "24.077366",
+      "latitude": "49.814985",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 71,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:12.651Z",
+      "phone": null,
+      "address": "вул. Патона, 37",
+      "name": "ТЦ \"Арсен\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:42.530Z",
+      "longitude": "23.958835",
+      "latitude": "49.822777",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 72,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:12.833Z",
+      "phone": null,
+      "address": "вул. І. Виговського, 100",
+      "name": "ТЦ \"ВАМ\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:32.518Z",
+      "longitude": "23.977825",
+      "latitude": "49.812528",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 73,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.070Z",
+      "phone": null,
+      "address": "вул. Городоцька, 175",
+      "name": "ТЦ \"Скриня\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:46.534Z",
+      "longitude": "23.994680",
+      "latitude": "49.835058",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 74,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 10",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.950Z",
+      "phone": null,
+      "address": "вул. У. Самчука, 22",
+      "name": "спорткомплекс НУ \"ЛП\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:54.568Z",
+      "longitude": "24.030809",
+      "latitude": "49.823191",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 75,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 10",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.477Z",
+      "phone": null,
+      "address": "вул. М. Черемшини, 31",
+      "name": "спорткомплекс ЛНУ ім. І.Франка",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:00.569Z",
+      "longitude": "24.062035",
+      "latitude": "49.832216",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 76,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 5",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.337Z",
+      "phone": null,
+      "address": "вул. Левицького, 67",
+      "name": "Личаківська районна адміністрація",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:04.568Z",
+      "longitude": "24.044271",
+      "latitude": "49.832426",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 77,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 6",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.344Z",
+      "phone": null,
+      "address": "вул. М. Грушевського, 4",
+      "name": "біологічний ф-тет ЛНУ ім.І.Франка",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:06.570Z",
+      "longitude": "24.032120",
+      "latitude": "49.834160",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 78,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 2",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.644Z",
+      "phone": null,
+      "address": "вул. С. Петлюри, 36",
+      "name": "ЛКП \"Скнилівок\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:36.523Z",
+      "longitude": "23.982612",
+      "latitude": "49.816897",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 79,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 3",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.646Z",
+      "phone": null,
+      "address": "вул. Матейка, 6",
+      "name": "готель \"Дністер\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:12.589Z",
+      "longitude": "24.016709",
+      "latitude": "49.837228",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 80,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 12",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:13.950Z",
+      "phone": null,
+      "address": "вул. Університетська, 1",
+      "name": "ЛНУ ім.І. Франка",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:16.566Z",
+      "longitude": "24.022206",
+      "latitude": "49.840324",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 81,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:14.040Z",
+      "phone": null,
+      "address": "вул. Кульпарківська, 131",
+      "name": "ЛКП \"Південне\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:30.512Z",
+      "longitude": "23.983246",
+      "latitude": "49.808469",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 82,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 6",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:16.210Z",
+      "phone": null,
+      "address": "вул. Коперника 2",
+      "name": "Спорттовари",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:28.615Z",
+      "longitude": "24.028237",
+      "latitude": "49.839422",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 83,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 8",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:14.361Z",
+      "phone": null,
+      "address": "просп. Свободи, 28",
+      "name": "Львівський театр опери та балету",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:18.588Z",
+      "longitude": "24.026182",
+      "latitude": "49.844027",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 84,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 8",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:14.249Z",
+      "phone": null,
+      "address": "пл. Ринок, 1",
+      "name": "Туристично-інформаційний центр",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:22.597Z",
+      "longitude": "24.031146",
+      "latitude": "49.841629",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 85,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 8",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:15.212Z",
+      "phone": null,
+      "address": "вул. Князя Романа, 12",
+      "name": "НУ ЛП",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:30.610Z",
+      "longitude": "24.032301",
+      "latitude": "49.838463",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 86,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 12",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:14.251Z",
+      "phone": null,
+      "address": "вул. Театральна, 22",
+      "name": "Кінопалац",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:20.593Z",
+      "longitude": "24.028718",
+      "latitude": "49.843297",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 87,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:14.553Z",
+      "phone": null,
+      "address": "вул. Карпінського, 8",
+      "name": "Студентський комбінат харчування НУ ЛП",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:14.589Z",
+      "longitude": "24.012869",
+      "latitude": "49.836273",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 88,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 13",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:14.557Z",
+      "phone": null,
+      "address": "пл. Ринок, 1",
+      "name": "Ратуша",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:24.596Z",
+      "longitude": "24.031730",
+      "latitude": "49.841472",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 89,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": "пн-сб 8:00 - 23:00 нд 9:00 - 22:00",
+      "updated_at": "2014-11-11T07:46:14.629Z",
+      "phone": "(032)245-76-54",
+      "address": "вул. Княгині Ольги, 120",
+      "name": "Арсен",
+      "home_page": "http://www.evrotek.com/ua/arsen/",
+      "created_at": "2014-10-22T11:28:10.301Z",
+      "longitude": "23.996241",
+      "latitude": "49.801925",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 90,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": "пн-сб 8:00 - 23:00 нд 9:00 - 22:00",
+      "updated_at": "2014-11-11T07:46:14.869Z",
+      "phone": "(032)241-63-21",
+      "address": "просп. Червоної Калини, 60",
+      "name": "Арсен",
+      "home_page": "http://www.evrotek.com/ua/arsen/",
+      "created_at": "2014-10-22T11:28:08.307Z",
+      "longitude": "24.053678",
+      "latitude": "49.794499",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 91,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "товари для туризму, одяг, велоаксесуари",
+      "work_time": "пон-п’ят: 10.00-19.00, суб: 10.00-16.00",
+      "updated_at": "2014-11-11T07:46:14.865Z",
+      "phone": "(032)270-75-36, (032)299-66-76",
+      "address": "вул. Листопадна, 16",
+      "name": "Planet Outdoor",
+      "home_page": "www.campus.ua",
+      "created_at": "2014-10-22T11:30:42.004Z",
+      "longitude": "24.044468",
+      "latitude": "49.812949",
+      "type": "BicycleShop"
+    }
+  },
+  {
+    "pk": 92,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": "пн-сб 8:00 - 23:00 нд 9:00 - 22:00",
+      "updated_at": "2014-11-11T07:46:14.949Z",
+      "phone": "(032)244-19-25",
+      "address": "вул. Патона, 37",
+      "name": "Арсен",
+      "home_page": "http://www.evrotek.com/ua/arsen/",
+      "created_at": "2014-10-22T11:28:14.317Z",
+      "longitude": "23.958835",
+      "latitude": "49.822777",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 93,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 7",
+      "work_time": "пн-сб 8:00 - 23:00 нд 9:00 - 22:00",
+      "updated_at": "2014-11-11T07:46:15.901Z",
+      "phone": "(032)297-60-70",
+      "address": "просп. Чорновола, 93",
+      "name": "Арсен",
+      "home_page": "http://www.evrotek.com/ua/arsen/",
+      "created_at": "2014-10-22T11:28:04.297Z",
+      "longitude": "24.017400",
+      "latitude": "49.862308",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 94,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": "щодня 8.00 -23.00",
+      "updated_at": "2014-11-11T07:46:15.268Z",
+      "phone": "(032)295-28-95",
+      "address": "вул. І. Виговського, 100",
+      "name": "ВАМ",
+      "home_page": "http://vam.biz.ua/",
+      "created_at": "2014-10-22T11:28:12.342Z",
+      "longitude": "23.977825",
+      "latitude": "49.812528",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 95,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": "щодня 8.00 -23.00",
+      "updated_at": "2014-11-11T07:46:15.267Z",
+      "phone": null,
+      "address": "вул. Гетьмана Мазепи, 11",
+      "name": "ВАМ",
+      "home_page": "http://vam.biz.ua/",
+      "created_at": "2014-10-22T11:28:02.303Z",
+      "longitude": "24.032374",
+      "latitude": "49.871409",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 96,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 8",
+      "work_time": "8.00-23.00",
+      "updated_at": "2014-11-11T07:46:15.552Z",
+      "phone": null,
+      "address": "вул. Тершаківців, 5",
+      "name": "Вопак",
+      "home_page": "http://www.vopak.ua/",
+      "created_at": "2014-10-22T11:27:58.288Z",
+      "longitude": "24.041142",
+      "latitude": "49.834736",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 97,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 4",
+      "work_time": "щодня 8.00 -23.00",
+      "updated_at": "2014-11-11T07:46:15.642Z",
+      "phone": "(032)295-62-57",
+      "address": "просп. Червоної Калини, 62",
+      "name": "ВАМ",
+      "home_page": "http://vam.biz.ua/",
+      "created_at": "2014-10-22T11:28:06.263Z",
+      "longitude": "24.057240",
+      "latitude": "49.792120",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 98,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 10",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:15.852Z",
+      "phone": null,
+      "address": "вул. Пекарська, 50",
+      "name": "Ветеринарний університет",
+      "home_page": null,
+      "created_at": "2014-10-22T11:36:02.561Z",
+      "longitude": "24.043482",
+      "latitude": "49.836471",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 99,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Гриль\nЖива риба\nЗамовлення м'яса для шашлику\nКулінарія\nЧистка риби\nКількість паркомісць - 2",
+      "work_time": "08:00 - 23:00",
+      "updated_at": "2014-11-11T07:46:15.573Z",
+      "phone": "(800)301-707",
+      "address": "вул. Шевченка, 358а",
+      "name": "Сільпо",
+      "home_page": "http://silpo.ua/ua/",
+      "created_at": "2014-10-22T11:28:18.500Z",
+      "longitude": "23.951464",
+      "latitude": "49.868920",
+      "type": "Supermarket"
+    }
+  },
+  {
+    "pk": 100,
+    "model": "bike_api.place",
+    "fields": {
+      "description": "Кількість паркомісць - 2",
+      "work_time": null,
+      "updated_at": "2014-11-11T07:46:15.903Z",
+      "phone": null,
+      "address": "вул. Дозвільна, 1",
+      "name": "ЛКП \"Сигнівка\"",
+      "home_page": null,
+      "created_at": "2014-10-22T11:35:44.535Z",
+      "longitude": "23.956375",
+      "latitude": "49.827637",
+      "type": "Parking"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "otfoHcjtqC]_A^qA",
+      "first_longitude": "24.029909",
+      "street": "ужгородська",
+      "created_at": "2014-11-17T13:00:11.338Z",
+      "second_latitude": "49.846644      ",
+      "updated_at": "2014-11-17T17:08:41.301Z",
+      "second_longitude": "24.030684",
+      "first_latitude": "49.846669      "
+    }
+  },
+  {
+    "pk": 2,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "}seoHw_tqC{I`FiAj@",
+      "first_longitude": "24.028347",
+      "street": "прсвободи2",
+      "created_at": "2014-11-17T13:01:43.013Z",
+      "second_latitude": "49.843532      ",
+      "updated_at": "2014-11-17T17:09:01.767Z",
+      "second_longitude": "24.026917",
+      "first_latitude": "49.841458      "
+    }
+  },
+  {
+    "pk": 3,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "c~eoHqmqqCLiApCI`BGRU",
+      "first_longitude": "24.015128",
+      "street": "городоцька1",
+      "created_at": "2014-11-17T13:03:10.880Z",
+      "second_latitude": "49.841678      ",
+      "updated_at": "2014-11-17T17:09:16.704Z",
+      "second_longitude": "24.015716",
+      "first_latitude": "49.843059      "
+    }
+  },
+  {
+    "pk": 4,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "wzdoHo|nqC@Dp@r@BFD`@",
+      "first_longitude": "24.002161",
+      "street": "чернівецька",
+      "created_at": "2014-11-17T13:03:56.170Z",
+      "second_latitude": "49.837084      ",
+      "updated_at": "2014-11-17T17:09:31.976Z",
+      "second_longitude": "24.001657",
+      "first_latitude": "49.837404      "
+    }
+  },
+  {
+    "pk": 5,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "ibdoHu_pqCjBzD|CdGdFtJ",
+      "first_longitude": "24.007819",
+      "street": "коновальця",
+      "created_at": "2014-11-17T13:04:22.542Z",
+      "second_latitude": "49.831014      ",
+      "updated_at": "2014-11-17T17:09:40.302Z",
+      "second_longitude": "24.003663",
+      "first_latitude": "49.833468      "
+    }
+  },
+  {
+    "pk": 6,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "qceoHqltqCt@n@",
+      "first_longitude": "24.030308",
+      "street": "коперника2",
+      "created_at": "2014-11-17T13:05:32.662Z",
+      "second_latitude": "49.838551      ",
+      "updated_at": "2014-11-17T17:09:55.817Z",
+      "second_longitude": "24.030058",
+      "first_latitude": "49.838814      "
+    }
+  },
+  {
+    "pk": 7,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "ymboH{tpqCtBcBtBuB",
+      "first_longitude": "24.011121",
+      "street": "сахарова",
+      "created_at": "2014-11-17T13:05:58.027Z",
+      "second_latitude": "49.823915      ",
+      "updated_at": "2014-11-17T17:10:04.673Z",
+      "second_longitude": "24.012282",
+      "first_latitude": "49.825070      "
+    }
+  },
+  {
+    "pk": 8,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "idcoHoinqC|GjObIbQjBzD",
+      "first_longitude": "23.999121",
+      "street": "гіпсова",
+      "created_at": "2014-11-17T13:06:24.283Z",
+      "second_latitude": "49.825126      ",
+      "updated_at": "2014-11-17T17:10:13.363Z",
+      "second_longitude": "23.992630",
+      "first_latitude": "49.828694      "
+    }
+  },
+  {
+    "pk": 9,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "i|}nHaj{qCDNt@aAbC}C",
+      "first_longitude": "24.065788",
+      "street": "зелена2",
+      "created_at": "2014-11-17T13:09:13.599Z",
+      "second_latitude": "49.800865      ",
+      "updated_at": "2014-11-17T17:11:08.424Z",
+      "second_longitude": "24.066846",
+      "first_latitude": "49.801796      "
+    }
+  },
+  {
+    "pk": 10,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "ej}nHqf|qCBFN]jAyCv@iABA",
+      "first_longitude": "24.070327",
+      "street": "зелена3",
+      "created_at": "2014-11-17T13:09:53.352Z",
+      "second_latitude": "49.798159      ",
+      "updated_at": "2014-11-17T17:11:15.579Z",
+      "second_longitude": "24.071654",
+      "first_latitude": "49.798916      "
+    }
+  },
+  {
+    "pk": 11,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "y~}nHsf{qCgB`BmCrB",
+      "first_longitude": "24.065250",
+      "street": "зелена4",
+      "created_at": "2014-11-17T13:10:29.309Z",
+      "second_latitude": " 49.803459      ",
+      "updated_at": "2014-11-17T17:11:22.863Z",
+      "second_longitude": "24.064211",
+      "first_latitude": "49.802218      "
+    }
+  },
+  {
+    "pk": 12,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "ku~nHuszqChAq@`Ay@fByA",
+      "first_longitude": "24.062173",
+      "street": "зелена5",
+      "created_at": "2014-11-17T13:10:56.045Z",
+      "second_latitude": "49.804639      ",
+      "updated_at": "2014-11-17T17:11:29.794Z",
+      "second_longitude": "24.063288",
+      "first_latitude": "49.805818      "
+    }
+  },
+  {
+    "pk": 13,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "mcaoHkn}qCqKxC",
+      "first_longitude": "24.061403",
+      "street": "зелена6",
+      "created_at": "2014-11-17T13:11:46.121Z",
+      "second_latitude": "49.816727      ",
+      "updated_at": "2014-11-17T17:11:39.444Z",
+      "second_longitude": "24.061519",
+      "first_latitude": "49.815822      "
+    }
+  },
+  {
+    "pk": 14,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "qwboHsr|qCm@j@mDtCIF",
+      "first_longitude": "24.076752",
+      "street": "пасічна1",
+      "created_at": "2014-11-17T13:12:11.411Z",
+      "second_latitude": "49.820326      ",
+      "updated_at": "2014-11-17T17:11:47.125Z",
+      "second_longitude": "24.075944",
+      "first_latitude": "49.818316      "
+    }
+  },
+  {
+    "pk": 15,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "ahcoHed|qC}DbD",
+      "first_longitude": "24.075021",
+      "street": "пасічна2",
+      "created_at": "2014-11-17T13:12:36.822Z",
+      "second_latitude": "49.824979      ",
+      "updated_at": "2014-11-17T17:12:23.926Z",
+      "second_longitude": "24.074771",
+      "first_latitude": "49.823354      "
+    }
+  },
+  {
+    "pk": 16,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "q`foHwqsqCjDaBfG}CnCoBFCS{AOmAE@qAt@{@d@\\rD",
+      "first_longitude": "24.026077",
+      "street": "прсвободи1",
+      "created_at": "2014-11-17T13:01:07.990Z",
+      "second_latitude": "49.841277      ",
+      "updated_at": "2014-11-17T17:08:50.782Z",
+      "second_longitude": "24.027389",
+      "first_latitude": "49.843458      "
+    }
+  },
+  {
+    "pk": 17,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "useoHuosqCPFj@z@vIbO",
+      "first_longitude": "24.025738",
+      "street": "січових стрільців",
+      "created_at": "2014-11-17T13:02:22.727Z",
+      "second_latitude": "49.839377      ",
+      "updated_at": "2014-11-17T17:09:08.840Z",
+      "second_longitude": "24.022784",
+      "first_latitude": "49.841386      "
+    }
+  },
+  {
+    "pk": 18,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "evhoHyzrqCmByE}@gBeA_B}DgGaCwDiB}BmEyEq@s@m@}@s@}A{BaJeCmKeBuHe@_FgAwOe@mIqAaXSiEGoC@uD@wA`@}KZyJNcD@G",
+      "first_longitude": "24.022388",
+      "street": "липинського",
+      "created_at": "2014-11-17T12:55:54.522Z",
+      "second_latitude": "49.864931      ",
+      "updated_at": "2014-11-17T17:07:37.628Z",
+      "second_longitude": "24.052147",
+      "first_latitude": "49.857126     "
+    }
+  },
+  {
+    "pk": 19,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "yakoHqndqCsDnK",
+      "first_longitude": "23.948799",
+      "street": "шевченка1",
+      "created_at": "2014-11-17T12:56:55.043Z",
+      "second_latitude": "49.870177      ",
+      "updated_at": "2014-11-17T17:07:55.478Z",
+      "second_longitude": "23.946753",
+      "first_latitude": "49.869329      "
+    }
+  },
+  {
+    "pk": 20,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "yhkoHw~cqCu@dCsA|EU|@QlA}AnOcBzPO`CMhDa@|@Cc@HcCToCH_BFYDa@C]`@mELk@PKj@FVDPLT\\IpCUl@]vAYlBc@hGQ`Gu@?^mLN}B\\qDf@yETmCnAgMb@iD",
+      "first_longitude": "23.946198",
+      "street": "шевченка2",
+      "created_at": "2014-11-17T12:57:26.188Z",
+      "second_latitude": "49.871113      ",
+      "updated_at": "2014-11-17T17:08:09.539Z",
+      "second_longitude": "23.943939",
+      "first_latitude": "49.870374      "
+    }
+  },
+  {
+    "pk": 21,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "irkoH_ybqCi@nF",
+      "first_longitude": "23.940150",
+      "street": "шевченка3",
+      "created_at": "2014-11-17T12:59:02.782Z",
+      "second_latitude": "49.872085      ",
+      "updated_at": "2014-11-17T17:08:22.874Z",
+      "second_longitude": "23.938956",
+      "first_latitude": "49.871865      "
+    }
+  },
+  {
+    "pk": 22,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "edgoHogsqCtDNnGVbBF?yD",
+      "first_longitude": "24.024417",
+      "street": "куліша",
+      "created_at": "2014-11-17T12:59:40.748Z",
+      "second_latitude": "49.846372      ",
+      "updated_at": "2014-11-17T17:08:31.599Z",
+      "second_longitude": "24.025086",
+      "first_latitude": "49.849153      "
+    }
+  },
+  {
+    "pk": 23,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "w}eoHqoqqCLkAl@iJ@eCu@mKD?",
+      "first_longitude": "24.015454",
+      "street": "городоцька2",
+      "created_at": "2014-11-17T13:03:35.046Z",
+      "second_latitude": "49.842927      ",
+      "updated_at": "2014-11-17T17:09:24.222Z",
+      "second_longitude": "24.020280",
+      "first_latitude": "49.843015      "
+    }
+  },
+  {
+    "pk": 24,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "_zdoH_isqClFpK|A|C~ChFd@`AJ^XVfAvAdAvAf@^pBbAr@Zv@rA",
+      "first_longitude": "24.024595",
+      "street": "коперника1",
+      "created_at": "2014-11-17T13:04:47.270Z",
+      "second_latitude": "49.832452      ",
+      "updated_at": "2014-11-17T17:09:48.945Z",
+      "second_longitude": "24.018075",
+      "first_latitude": "49.837282      "
+    }
+  },
+  {
+    "pk": 25,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "uncoHkhhqCl`@jBhETpDLxA@",
+      "first_longitude": "23.968211",
+      "street": "виговського",
+      "created_at": "2014-11-17T13:06:59.862Z",
+      "second_latitude": "49.822654      ",
+      "updated_at": "2014-11-17T17:10:25.945Z",
+      "second_longitude": "23.967494",
+      "first_latitude": "49.830354      "
+    }
+  },
+  {
+    "pk": 26,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "k}}nHq}qqCB?_@rJ_@jDo@rLw@dP]nJi@lJsApW{Bne@eEt{@_AjR]|FIx@",
+      "first_longitude": "24.017696",
+      "street": "наукова",
+      "created_at": "2014-11-17T13:07:21.596Z",
+      "second_latitude": "49.805707      ",
+      "updated_at": "2014-11-17T17:10:35.207Z",
+      "second_longitude": "23.981760",
+      "first_latitude": "49.801979      "
+    }
+  },
+  {
+    "pk": 27,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "_}}nHy_rqCf@@r@JpDd@rs@pJvYvD",
+      "first_longitude": "24.018025",
+      "street": "стрийська",
+      "created_at": "2014-11-17T13:07:58.750Z",
+      "second_latitude": "49.787869      ",
+      "updated_at": "2014-11-17T17:10:48.351Z",
+      "second_longitude": "24.015044",
+      "first_latitude": "49.801912      "
+    }
+  },
+  {
+    "pk": 28,
+    "model": "bike_api.bicycleline",
+    "fields": {
+      "line_path": "_z|nH_w|qCx@i@zD_CfBy@zAg@vASnACbBD`CPbFPrAIv@OrKgCpFuAfCs@z@_@xAy@v@i@pAyA|B}DpBaE",
+      "first_longitude": "24.072968",
+      "street": "зелена1",
+      "created_at": "2014-11-17T13:08:48.227Z",
+      "second_latitude": "49.783615      ",
+      "updated_at": "2014-11-17T17:10:58.486Z",
+      "second_longitude": "24.078698",
+      "first_latitude": "49.796325      "
+    }
+  }
+]
