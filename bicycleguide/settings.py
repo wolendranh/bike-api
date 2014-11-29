@@ -23,7 +23,7 @@ SECRET_KEY = 'xjdqlos55gn9uqls-w+hb2c%)p1_0z2rqugn*+q)nqp8h41_+9'
 DEBUG = True
 
 TEMPLATE_DEBUG = True
-
+STATIC_URL = '/static/'
 ALLOWED_HOSTS = []
 
 # REST_FRAMEWORK = {
@@ -44,7 +44,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'bike_api'
+    'bike_api.version_1'
 )
 
 MIDDLEWARE_CLASSES = (
@@ -103,7 +103,6 @@ if HEROKU:
 
     # Allow all host headers
     ALLOWED_HOSTS = ['*']
-
     # Static asset configuration
     import os
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
