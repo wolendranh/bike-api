@@ -16,6 +16,9 @@ class Place(models.Model):
     created_at = models.DateTimeField(auto_created=True)
     updated_at = models.DateTimeField(max_length=100)
 
+    def __unicode__(self):
+        return self.name
+
 
 class Comment(models.Model):
     place = models.ForeignKey(Place, related_name='comments')

@@ -8,10 +8,15 @@ from rest_framework import status
 
 class PlacesList(APIView):
     """
-    List all places
+    List all places, or filter them by
+    incoming url param
     """
     def get(self, request, format=None):
-        places = Place.objects.all()
+        if 'afterDate' in request.QUERY_PARAMS:
+            threshold = request.QUERY_PARAMS.get('afterDate', '')[:10]
+            places = Place.objects.filter(updated_at__gte=threshold)
+        else:
+            places = Place.objects.all()
         serializer = PlaceSerializer(places, many=True)
         return Response(serializer.data)
 
@@ -25,10 +30,15 @@ class PlacesList(APIView):
 
 class BicycleLinesList(APIView):
     """
-    List all Bicycle Routes
+    List all Bicycle Routes, or filter them by
+    incoming url param
     """
     def get(self, request, format=None):
-        routes = BicycleLine.objects.all()
+        if 'afterDate' in request.QUERY_PARAMS:
+            threshold = request.QUERY_PARAMS.get('afterDate', '')[:10]
+            routes = BicycleLine.objects.filter(updated_at__gte=threshold)
+        else:
+            routes = BicycleLine.objects.all()
         serializer = BicycleLineSerializer(routes, many=True)
         return Response(serializer.data)
 
